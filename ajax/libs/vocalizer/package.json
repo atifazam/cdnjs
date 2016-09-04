@@ -8,6 +8,15 @@
     "type": "git",
     "url": "https://github.com/atifazam/vocalizer"
   },
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/atifazam/vocalizer.git",
+    "basePath": "",
+    "files": [
+      "vocalizer.min.js",
+      "vocalizer.min.css"
+    ]
+  },
   "license": "MIT",
   "author": "atifazam"
 }
