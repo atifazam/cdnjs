@@ -17,10 +17,9 @@
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/atifazam/vocalizer.git",
-    "basePath": "",
+    "basePath": "dist",
     "files": [
-      "vocalizer.min.js",
-      "vocalizer.min.css"
+      "**/*"
     ]
   },
   "license": "MIT",
